@@ -11,3 +11,11 @@ Tareas elaboradas por Roxana Soto para el curso de Sistemas Inteligentes
 Ejercicio 1: Extracción de features according https://web.stanford.edu/~jurafsky/slp3/5.pdf
 
 Ejercicio 2: Implementación de clasificador usando Regularization according https://web.stanford.edu/~jurafsky/slp3/5.pdf
+
+## Semana 3
+
+Ejercicio 1: Implementación de extraccion de caracteristicas usando Glove
+
+Ejercicio 2 : Implementacion de Red Nueronal
+ 
+ Ejercicio 3 : Comprando con el acurracy
