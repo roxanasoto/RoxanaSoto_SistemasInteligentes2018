@@ -1,0 +1,73 @@
+{
+ "cells": [
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<img src = \"logo-ucsp.png\" alt=\"logo-ucsp\" height=\"250\" width=\"250\" align = \"right\">  \n",
+    "**<font color=blue> MAESTRIA EN CIENCIAS DE LA COMPUTACIÓN </font>**  \n",
+    "**<font color=blue> CURSO DE SISTEMAS INTELIGENTES </font>**  \n",
+    "**<font color=blue> PROFESOR: DR. JOSE OCHOA LUNA </font>**  \n",
+    "<font color=blue> ALUMNA : ROXANA SOTO BARRERA </font>  \n",
+    "____________________________________________________________________________________________"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Variable Elimination"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "myenv",
+   "language": "python",
+   "name": "myenv"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
